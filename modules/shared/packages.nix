@@ -3,7 +3,7 @@
 with pkgs; [
   # General packages for development and system management
   # alacritty
-  # kitty
+  kitty
 #  aspell
 #  aspellDicts.en
 #  bash-completion
@@ -49,7 +49,7 @@ with pkgs; [
   # Go development tools
 #  go
 #  gopls
-  
+  # psql
   # html-lsp
 #  htmx-lsp
 #  tailwindcss-language-server
